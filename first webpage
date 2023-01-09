@@ -11,8 +11,8 @@
 <body>
   <h1>Math</h1> <h2>is a magical subject.</h2><br>
   <h3>There are lots of small subjects in math area.</h3><br>
-  <h3>Everything is connected to math in different ways.</h3><br>
-  <p>For example physics and calculus.</p>
+  <h3>Everything is <em>connected</em> to math in different ways.</h3><br>
+  <p>For example <strong>physics</strong> and <strong>calculus</strong>.</p>
   
   <script src="script.js"></script>
 
