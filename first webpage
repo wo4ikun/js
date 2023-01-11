@@ -9,11 +9,24 @@
 </head>
 
 <body>
-  <h1>Math</h1> <h2>is a magical subject.</h2><br>
-  <h3>There are lots of small subjects in math area.</h3><br>
-  <h3>Everything is <em>connected</em> to math in different ways.</h3><br>
-  <p>For example <strong>physics</strong> and <strong>calculus</strong>.</p>
-  
+  <h1>Nike</h1>
+  <img src="https://miro.medium.com/max/1400/0*9hcinRdaHicrNpNE.webp" alt="Nike. Logo" width="250">
+  <h2>Nike's originator</h2>
+  <em>Phill Knight</em>, he created the Nike company in 1964.
+  <h2>They sell :</h2>
+  <ul>
+   <li>Sneakers</li>
+   <li>Pants</li>
+   <li>Shirts</li>
+  </ul>
+  <h2>Why Nike is famous?</h2>
+  <ol>
+    <li>Nike sells good quality products</li>
+    <li>Nike has many loyal customers</li>
+    <li>They have good advertising</li>
+  </ol>
+  <h3>Sponsor</h3>
+  Nike sponsored many kinds of sport teams, <strong>basketball</strong> has the most popularity.
   <script src="script.js"></script>
 
  <!--
