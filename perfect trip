@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>The perfect trip</h1>
+  <p>I would see scenes like Banff park, which have mountains and ponds, and Tibet which is the most beautiful place I have ever been.</p>
+  <img src="https://banffnationalpark.com/wp-content/uploads/2022/04/banff-guide.jpg" alt="Banff" width="400">
+  <img src="https://static.accupass.com/eventbanner/2103090307529203954950.jpg" alt="xizang" width="500">
+  <p>And animals like bears and yaks.</p>
+  <img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/897b2e5d-6d4c-40fa-bbe8-6829455747e2.jpg" alt="Bears" width="300">
+  <img src="https://qzyjy.swun.edu.cn/_mediafile/qzgyyjy1/2014/04/16/1mvrw1356s.jpg" alt="yaks" width="300">
+  <p>And eat food like dumplings and brynza.</p>
+  <img src="https://img.soundofhope.org/2020-04/37760938464_325fab7a67_c-1586590491067.jpg" alt="dumplings" width="300">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhioZB3HqH7jHkrMOj_bPfWReICHLRikyhw&usqp=CAU" alt="brynza" width="300">
+  
+  <script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
