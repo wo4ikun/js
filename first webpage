@@ -6,13 +6,54 @@
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+
+  <style>
+    h2 {
+      color: rgb(224, 63, 4);
+    }
+
+    body {
+      background-color: black;
+    }
+
+    p {
+      color: white;
+    }
+
+    h1 {
+      color: white;
+    }
+
+    ul {
+      color: white;
+    }
+
+    ol {
+      color: white;
+    }
+
+    h3 {
+      color: rgb(224, 63, 4);
+    }
+
+    #originator {
+      color: rgb(72, 136, 240);
+    }
+    
+    #basketball {
+      color: rgb(224, 90, 22);
+    }
+
+  </style>
+  
+  
 </head>
 
 <body>
   <h1>Nike</h1>
   <img src="https://miro.medium.com/max/1400/0*9hcinRdaHicrNpNE.webp" alt="Nike. Logo" width="250">
   <h2>Nike's originator</h2>
-  <em>Phill Knight</em>, he created the Nike company in 1964.
+  <p><em id="originator">Phill Knight</em>, he created the Nike company in 1964. </p>
   <h2>They sell :</h2>
   <ul>
    <li>Sneakers</li>
@@ -26,7 +67,7 @@
     <li>They have good advertising</li>
   </ol>
   <h3>Sponsor</h3>
-  Nike sponsored many kinds of sport teams, <strong>basketball</strong> has the most popularity.
+  <p>Nike sponsored many kinds of sport teams, <strong id="basketball">basketball</strong> has the most popularity. </p>
   <script src="script.js"></script>
 
  <!--
