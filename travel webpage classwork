@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<style>
+  body {
+    background-color: black;
+  }
+  p {color:lightblue}
+
+  #heading {
+    color:blue;
+  }
+  .items {color: lightblue}
+
+
+  
+</style>
+<body>
+
+<h1 id = "heading">Welcome to Toronto!</h1>
+<strong><p>By Christian and William</p></strong>
+  <em><p>Toronto is Canada's largest city and a world leader in such areas as business, finance, technology, entertainment and culture. Its large population of immigrants from all over the globe has also made Toronto one of the most multicultural cities in the world.</p></body></em>
+ <img src ="https://cdn.britannica.com/93/94493-050-35524FED/Toronto.jpg" height = 350>
+<h2 class = "subheading">Landmarks!</h2>
+<strong><h4 class = "items">The CN Tower!</h4></strong>
+<img src = "https://www.cntower.ca/themes/custom/de_theme/dist/img/background-images/lighting-schedule-background.jpg" height = 200 alt = "The CN Tower">
+  
+<strong><h4 class = "items">The ROM</h4></strong>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Royal_Ontario_Museum_in_Fall_2021.jpg/1200px-Royal_Ontario_Museum_in_Fall_2021.jpg" height = 200 alt = "Royal Museum of Ontario (ROM)">
+  
+<strong><h4 class = "items">Castle Loma</h4></strong>
+<img src = "https://casaloma.ca/wp-content/uploads/2018/04/ABOUT.jpg" height = 200 alt = "Castle Loma">
+
+</body>
+
+</html>
