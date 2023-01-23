@@ -12,31 +12,39 @@
   body {
     background-color: black;
   }
-  p {color:lightblue}
+  p {color:lightcyan}
 
-  #heading {
-    color:blue;
-  }
   .items {color: lightblue}
+
+  .heading {color: cyan}
+
+  #goodbye {color:blue}
 
 
   
 </style>
 <body>
 
-<h1 id = "heading">Welcome to Toronto!</h1>
+<h1 class = "heading">Welcome to Toronto!</h1>
 <strong><p>By Christian and William</p></strong>
   <em><p>Toronto is Canada's largest city and a world leader in such areas as business, finance, technology, entertainment and culture. Its large population of immigrants from all over the globe has also made Toronto one of the most multicultural cities in the world.</p></body></em>
  <img src ="https://cdn.britannica.com/93/94493-050-35524FED/Toronto.jpg" height = 350>
-<h2 class = "subheading">Landmarks!</h2>
-<strong><h4 class = "items">The CN Tower!</h4></strong>
+<h2 class = "heading">Landmarks!</h2>
+<strong><h3 class = "items">The CN Tower</h3></strong>
+<p>CN Tower, also called Canadian National Tower, broadcast and telecommunications tower in Toronto. Standing at a height of 1,815 feet (553 metres), it was the world's tallest freestanding structure until 2007.</p>
 <img src = "https://www.cntower.ca/themes/custom/de_theme/dist/img/background-images/lighting-schedule-background.jpg" height = 200 alt = "The CN Tower">
   
-<strong><h4 class = "items">The ROM</h4></strong>
+<strong><h3 class = "items">The ROM</h3></strong>
+<p>Among the top 10 cultural institutions in North America, Canada's largest and most comprehensive museum is home to a world-class collection of 13 million artworks, cultural objects and natural history specimens, featured in 40 gallery and exhibition spaces.</p>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Royal_Ontario_Museum_in_Fall_2021.jpg/1200px-Royal_Ontario_Museum_in_Fall_2021.jpg" height = 200 alt = "Royal Museum of Ontario (ROM)">
   
-<strong><h4 class = "items">Castle Loma</h4></strong>
+<strong><h3 class = "items">Castle Loma</h3></strong>
+<p>A prime example of modern Toronto’s commitment to its rich history, Casa Loma was first built in 1914 by financier Sir Henry Pellatt. The castle located in midtown Toronto, is now owned by the City of Toronto and is regarded as a treasured heritage landmark. Today, Casa Loma is one of Toronto’s top tourist attractions and hospitality venues.</p>
 <img src = "https://casaloma.ca/wp-content/uploads/2018/04/ABOUT.jpg" height = 200 alt = "Castle Loma">
+
+
+
+<h1 id = "goodbye">Thank you for visiting! We hope to see you!</h1>
 
 </body>
 
