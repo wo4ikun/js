@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>William's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="re1">Pizza</a></li>
+        </ol>
+        
+        <h2 id="re1">Pizza</h2>
+        
+        <ul>
+            <li>Time: _</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <p>
+          2 cup all purpose flour.<br>
+100 gm processed cheese.<br>
+100 ml tomato ketchup.<br>
+4 mushroom.<br>
+1 tomato.<br>
+1/2 capsicum (green pepper)<br>
+2 onion.<br>
+1 teaspoon oregano.<br>
+        </p>
+        
+        <p><strong>Step 1: </strong><br>
+        
+</p>
+        
+    <p><em>Source: <a target = "_blank "href="https://www.simplyrecipes.com/recipes/homemade_pizza/">Pizza recipes websites</a></em></p>
+    
+    </body>
+</html>
